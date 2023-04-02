@@ -1,2 +1,2 @@
 # OIBSIP-CALCULATOR
-Calculator
+A simple working Calculator design using HTML, CSS & JavaScript.
